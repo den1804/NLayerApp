@@ -1,0 +1,13 @@
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\AutoMapper.dll
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\Ninject.dll
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\NLayerApp.DAL.dll
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\EntityFramework.dll
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\NLayerApp.DAL.pdb
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\AutoMapper.xml
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\Ninject.xml
+D:\Development\NLayerApp\ClassLibrary1\bin\Debug\EntityFramework.xml
+D:\Development\NLayerApp\ClassLibrary1\obj\Debug\NLayerApp.BLL.csprojResolveAssemblyReference.cache
+D:\Development\NLayerApp\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Development\NLayerApp\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

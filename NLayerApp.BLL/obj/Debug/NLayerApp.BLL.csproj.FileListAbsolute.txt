@@ -1,0 +1,11 @@
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.dll
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.BLL.pdb
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.dll
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.dll
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.dll
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\NLayerApp.DAL.pdb
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\AutoMapper.xml
+D:\Development\NLayerApp\NLayerApp.BLL\bin\Debug\EntityFramework.xml
+D:\Development\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.csprojResolveAssemblyReference.cache
+D:\Development\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.dll
+D:\Development\NLayerApp\NLayerApp.BLL\obj\Debug\NLayerApp.BLL.pdb
